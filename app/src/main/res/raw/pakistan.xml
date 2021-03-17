@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<raw>
+    <entries>
+        <entry>
+            <field name="Name">Edhi Ambulance Service</field>
+            <field name="Number">115</field>
+        </entry>
+        <entry>
+            <field name="Name">Chhipa Ambulance Helpline</field>
+            <field name="Number">1020</field>
+        </entry>
+        <entry>
+            <field name="Name">Rescue Helpline</field>
+            <field name="Number">1122</field>
+        </entry>
+        <entry>
+            <field name="Name">Police Helpline</field>
+            <field name="Number">15</field>
+        </entry>
+        <entry>
+            <field name="Name">Rangers Helpline</field>
+            <field name="Number">1101</field>
+        </entry>
+        <entry>
+            <field name="Name">Fire Brigade Helpline</field>
+            <field name="Number">16</field>
+        </entry>
+    </entries>
+</raw>
